@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    text-align: center;
+    /* background-color: cadetblue; */
+   background-image: url(https://media.istockphoto.com/id/1381343542/photo/business-futuristic-backdrop-network-connection-structure-cyberspace-with-moving-particles.jpg?s=1024x1024&w=is&k=20&c=AwAdLvdUdlKGuuKm-KfQPcdlRSSTUTXe6PZqdpIaTnc=);
+}
+div{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+background-image: url(https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+}
+/* body{
+    background-color: aqua;
+} */
+#abc{
+    color:green ;
+}
+p.abc1{
+    color: blue;
+}
+.abc1 li a{
+    color: brown;
+}
+
+/* general selector */
+h2~p{
+    color:#e1ad01;
+}
